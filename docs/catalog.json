@@ -1,0 +1,723 @@
+{
+  "schema_version": 1,
+  "locales": [
+    "en",
+    "pt-BR"
+  ],
+  "operational_languages": {
+    "skills": "en",
+    "guides_and_models": "pt-BR"
+  },
+  "entries": [
+    {
+      "key": "index",
+      "kind": "index",
+      "pages": {
+        "en": "docs/en/README.md",
+        "pt-BR": "docs/pt-BR/README.md"
+      }
+    },
+    {
+      "key": "guide",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/GUIDE.md",
+        "pt-BR": "docs/pt-BR/GUIDE.md"
+      }
+    },
+    {
+      "key": "feature-documentation",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/FEATURE_DOCUMENTATION.md",
+        "pt-BR": "docs/pt-BR/FEATURE_DOCUMENTATION.md"
+      }
+    },
+    {
+      "key": "use-cases",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/USE_CASES.md",
+        "pt-BR": "docs/pt-BR/USE_CASES.md"
+      }
+    },
+    {
+      "key": "usage-modes",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/USAGE_MODES.md",
+        "pt-BR": "docs/pt-BR/USAGE_MODES.md"
+      }
+    },
+    {
+      "key": "kit-review",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/KIT_REVIEW.md",
+        "pt-BR": "docs/pt-BR/KIT_REVIEW.md"
+      }
+    },
+    {
+      "key": "contributing",
+      "kind": "guide",
+      "pages": {
+        "en": "CONTRIBUTING.md",
+        "pt-BR": "docs/pt-BR/CONTRIBUTING.md"
+      }
+    },
+    {
+      "key": "security",
+      "kind": "guide",
+      "pages": {
+        "en": "SECURITY.md",
+        "pt-BR": "docs/pt-BR/SECURITY.md"
+      }
+    },
+    {
+      "key": "changelog",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/CHANGELOG.md",
+        "pt-BR": "docs/pt-BR/CHANGELOG.md"
+      }
+    },
+    {
+      "key": "credits",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/CREDITS.md",
+        "pt-BR": "docs/pt-BR/CREDITS.md"
+      }
+    },
+    {
+      "key": "architecture",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/ARCHITECTURE.md",
+        "pt-BR": "docs/pt-BR/ARCHITECTURE.md"
+      }
+    },
+    {
+      "key": "language",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/LANGUAGE.md",
+        "pt-BR": "docs/pt-BR/LANGUAGE.md"
+      }
+    },
+    {
+      "key": "reference-review",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/REFERENCE_REVIEW.md",
+        "pt-BR": "docs/pt-BR/REFERENCE_REVIEW.md"
+      }
+    },
+    {
+      "key": "knowledge",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/KNOWLEDGE.md",
+        "pt-BR": "docs/pt-BR/KNOWLEDGE.md"
+      }
+    },
+    {
+      "key": "templates/.kit/CATALOG.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/process/CATALOG.md",
+        "pt-BR": "docs/pt-BR/process/CATALOG.md"
+      },
+      "source": "templates/.kit/CATALOG.md",
+      "source_sha256": "C424610EA61872E14F91BF31EF3BD03218CD40E40C3805DC9BAFE68965243A25"
+    },
+    {
+      "key": "templates/.kit/INSTRUCTIONS.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/process/INSTRUCTIONS.md",
+        "pt-BR": "docs/pt-BR/process/INSTRUCTIONS.md"
+      },
+      "source": "templates/.kit/INSTRUCTIONS.md",
+      "source_sha256": "A10140FD368EEC184564DC2DC017B6C720AE5BB36A0CAE5AA9B1F107A0DCFE35"
+    },
+    {
+      "key": "templates/.kit/METHODS.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/process/METHODS.md",
+        "pt-BR": "docs/pt-BR/process/METHODS.md"
+      },
+      "source": "templates/.kit/METHODS.md",
+      "source_sha256": "31ECF6AE7F68745D54E19A22F8E03BD50199660BFCDC5E80D4F8047E574C3374"
+    },
+    {
+      "key": "templates/.kit/ORGANIZATION.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/process/ORGANIZATION.md",
+        "pt-BR": "docs/pt-BR/process/ORGANIZATION.md"
+      },
+      "source": "templates/.kit/ORGANIZATION.md",
+      "source_sha256": "2F104DC45276433BECE7AB4C5737F81D4164D756DDE886C17851371BB6DDD316"
+    },
+    {
+      "key": "templates/.kit/REFERENCES.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/process/REFERENCES.md",
+        "pt-BR": "docs/pt-BR/process/REFERENCES.md"
+      },
+      "source": "templates/.kit/REFERENCES.md",
+      "source_sha256": "BB7D69379608C85C33AAE733BFD9B3B0CFB1073ACB412D82F76BE3747FF806C3"
+    },
+    {
+      "key": "templates/.kit/SKILLS.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/process/SKILLS.md",
+        "pt-BR": "docs/pt-BR/process/SKILLS.md"
+      },
+      "source": "templates/.kit/SKILLS.md",
+      "source_sha256": "38FC876D947D077973208A3091A71C9562F1EB3EF2CE54C4E20E1F5401AE4241"
+    },
+    {
+      "key": "templates/.kit/STAGE_CONTRACTS.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/process/STAGE_CONTRACTS.md",
+        "pt-BR": "docs/pt-BR/process/STAGE_CONTRACTS.md"
+      },
+      "source": "templates/.kit/STAGE_CONTRACTS.md",
+      "source_sha256": "C94B4F006F1C18DEAB741E2CC67C098EEF29F4BE958124E3F3A64EB5547B3F36"
+    },
+    {
+      "key": "templates/.kit/STAGE_INFORMATION.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/process/STAGE_INFORMATION.md",
+        "pt-BR": "docs/pt-BR/process/STAGE_INFORMATION.md"
+      },
+      "source": "templates/.kit/STAGE_INFORMATION.md",
+      "source_sha256": "DD4845BDCC5735FEB9BB7AAF8A6BA68E1C18777CDE4929A399BE87A3D6129540"
+    },
+    {
+      "key": "templates/.kit/WORKFLOWS.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/process/WORKFLOWS.md",
+        "pt-BR": "docs/pt-BR/process/WORKFLOWS.md"
+      },
+      "source": "templates/.kit/WORKFLOWS.md",
+      "source_sha256": "6980F4A6665B3DB8EAE453C707389FA0937DDFBBB1F594E75F4DB2C56CE7C25C"
+    },
+    {
+      "key": "templates/.kit/WORK_CONTRACT.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/process/WORK_CONTRACT.md",
+        "pt-BR": "docs/pt-BR/process/WORK_CONTRACT.md"
+      },
+      "source": "templates/.kit/WORK_CONTRACT.md",
+      "source_sha256": "13301B27B5D30B44A7C4B4DF5221BD4DDA247C7F66469BE4220B4206D5D66852"
+    },
+    {
+      "key": "templates/.kit/WORK_CYCLES.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/process/WORK_CYCLES.md",
+        "pt-BR": "docs/pt-BR/process/WORK_CYCLES.md"
+      },
+      "source": "templates/.kit/WORK_CYCLES.md",
+      "source_sha256": "CA193EC21B57141A7F3DE2F0471F344DD5CA9A4C886757DD816D7F6C6D219815"
+    },
+    {
+      "key": "templates/AGENTS.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/instance/AGENTS.md",
+        "pt-BR": "docs/pt-BR/templates/instance/AGENTS.md"
+      },
+      "source": "templates/AGENTS.md",
+      "source_sha256": "178D682258C6F37F8845C8C6E2E63155178C767938232FD1FF247B63DE5F8063"
+    },
+    {
+      "key": "templates/README.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/instance/README.md",
+        "pt-BR": "docs/pt-BR/templates/instance/README.md"
+      },
+      "source": "templates/README.md",
+      "source_sha256": "F5CBBB2AD6FB9DFDAACF39E322EFA41A448100FBD05E7A52A8F0012FA1AA93C1"
+    },
+    {
+      "key": "templates/docs/product/README.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/README.md",
+        "pt-BR": "docs/pt-BR/templates/README.md"
+      },
+      "source": "templates/docs/product/README.md",
+      "source_sha256": "CDF66F466FD1D27FDFD5CC48ACDC57BB1F509EFB0B29F85C80B1FA4BF9DAE97A"
+    },
+    {
+      "key": "templates/docs/product/brand/DESIGN.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/brand/DESIGN.md",
+        "pt-BR": "docs/pt-BR/templates/brand/DESIGN.md"
+      },
+      "source": "templates/docs/product/brand/DESIGN.md",
+      "source_sha256": "B5FE91DBAFBB20F57AFAFEABABF7ABC0F3B9EF4CEDCCE2FD6EC2083241890E86"
+    },
+    {
+      "key": "templates/docs/product/brand/brand.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/brand/brand.md",
+        "pt-BR": "docs/pt-BR/templates/brand/brand.md"
+      },
+      "source": "templates/docs/product/brand/brand.md",
+      "source_sha256": "1F38734E8C6B34D146639CDCB5B0284AB3574680AD3A909DCAE6805507D4452E"
+    },
+    {
+      "key": "templates/docs/product/business/feasibility.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/business/feasibility.md",
+        "pt-BR": "docs/pt-BR/templates/business/feasibility.md"
+      },
+      "source": "templates/docs/product/business/feasibility.md",
+      "source_sha256": "21268C3610FF583F55581164917F68D3F52AFA425DE674F7047C1742414D38D3"
+    },
+    {
+      "key": "templates/docs/product/context/artifact-register.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/context/artifact-register.md",
+        "pt-BR": "docs/pt-BR/templates/context/artifact-register.md"
+      },
+      "source": "templates/docs/product/context/artifact-register.md",
+      "source_sha256": "A96400A6DFD94D428749B69E028D2EB5A151420745566F2AAD4A3419D52AC6B0"
+    },
+    {
+      "key": "templates/docs/product/context/idea.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/context/idea.md",
+        "pt-BR": "docs/pt-BR/templates/context/idea.md"
+      },
+      "source": "templates/docs/product/context/idea.md",
+      "source_sha256": "982F4C3DF6772A5DD56ACFF7D4F9A768502300245F1AE094BAD93A3471859D5B"
+    },
+    {
+      "key": "templates/docs/product/context/open-questions.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/context/open-questions.md",
+        "pt-BR": "docs/pt-BR/templates/context/open-questions.md"
+      },
+      "source": "templates/docs/product/context/open-questions.md",
+      "source_sha256": "8F166F79675DA0DB92E8FD51CFA6B60B6C668B52B1A010D549143055961D42E6"
+    },
+    {
+      "key": "templates/docs/product/context/principles.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/context/principles.md",
+        "pt-BR": "docs/pt-BR/templates/context/principles.md"
+      },
+      "source": "templates/docs/product/context/principles.md",
+      "source_sha256": "049CF9D25AAB6264DAAEC506D3410E6B90CFECA3F206F178E0865C8AA039D63F"
+    },
+    {
+      "key": "templates/docs/product/definition/experiments-and-mvp.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/definition/experiments-and-mvp.md",
+        "pt-BR": "docs/pt-BR/templates/definition/experiments-and-mvp.md"
+      },
+      "source": "templates/docs/product/definition/experiments-and-mvp.md",
+      "source_sha256": "6A5B2BA005B000370D6E82416EED7405C12E07F4AAACD37B574CE316B2F2D902"
+    },
+    {
+      "key": "templates/docs/product/definition/problem-and-value.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/definition/problem-and-value.md",
+        "pt-BR": "docs/pt-BR/templates/definition/problem-and-value.md"
+      },
+      "source": "templates/docs/product/definition/problem-and-value.md",
+      "source_sha256": "D4F8D4EE4A6CAA59352C59FEAF092CFFB3FD1471963FCAD55BF2299FD76FAF17"
+    },
+    {
+      "key": "templates/docs/product/definition/product-behavior.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/definition/product-behavior.md",
+        "pt-BR": "docs/pt-BR/templates/definition/product-behavior.md"
+      },
+      "source": "templates/docs/product/definition/product-behavior.md",
+      "source_sha256": "FF8CB6F771916F735BBF2912D4B8C2EF7074424A03D04157823357C3DEAF2F37"
+    },
+    {
+      "key": "templates/docs/product/delivery/handoff.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/delivery/handoff.md",
+        "pt-BR": "docs/pt-BR/templates/delivery/handoff.md"
+      },
+      "source": "templates/docs/product/delivery/handoff.md",
+      "source_sha256": "BB03358490276BE2CC9525B76A3E66B85393223DE46E204E37BE5F6B259E30A6"
+    },
+    {
+      "key": "templates/docs/product/delivery/release-notes.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/delivery/release-notes.md",
+        "pt-BR": "docs/pt-BR/templates/delivery/release-notes.md"
+      },
+      "source": "templates/docs/product/delivery/release-notes.md",
+      "source_sha256": "80FD7FB5592B2A999C756135FB15FBD7CEE2438AB4B07CEEE20058AB5D236D5B"
+    },
+    {
+      "key": "templates/docs/product/delivery/roadmap-and-management.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/delivery/roadmap-and-management.md",
+        "pt-BR": "docs/pt-BR/templates/delivery/roadmap-and-management.md"
+      },
+      "source": "templates/docs/product/delivery/roadmap-and-management.md",
+      "source_sha256": "AC824F2586D4F706E463EC71A2231957C969810695496415D496FC61630274A5"
+    },
+    {
+      "key": "templates/docs/product/engineering/architecture.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/engineering/architecture.md",
+        "pt-BR": "docs/pt-BR/templates/engineering/architecture.md"
+      },
+      "source": "templates/docs/product/engineering/architecture.md",
+      "source_sha256": "98ACF0DDF05E8B87DF6B3592D8EEFD268DEDCCEC2C4CB711EF3EF46EF96F0F27"
+    },
+    {
+      "key": "templates/docs/product/engineering/capacity-costs-and-evolution.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/engineering/capacity-costs-and-evolution.md",
+        "pt-BR": "docs/pt-BR/templates/engineering/capacity-costs-and-evolution.md"
+      },
+      "source": "templates/docs/product/engineering/capacity-costs-and-evolution.md",
+      "source_sha256": "CD2CBC5634742169ED77EF1378D86677660A20A4A6574F384A4267DB7EBFAC80"
+    },
+    {
+      "key": "templates/docs/product/engineering/constraints-and-quality.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/engineering/constraints-and-quality.md",
+        "pt-BR": "docs/pt-BR/templates/engineering/constraints-and-quality.md"
+      },
+      "source": "templates/docs/product/engineering/constraints-and-quality.md",
+      "source_sha256": "220421CBF323981D6463702082C48D1DE796C4F51D6A2FF3B7D60E15683999AA"
+    },
+    {
+      "key": "templates/docs/product/engineering/decisions-and-technical-review.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/engineering/decisions-and-technical-review.md",
+        "pt-BR": "docs/pt-BR/templates/engineering/decisions-and-technical-review.md"
+      },
+      "source": "templates/docs/product/engineering/decisions-and-technical-review.md",
+      "source_sha256": "7453D6379D3C9335F240FBAD83A4C60638E5DD53607F44E79202F7EA0E812282"
+    },
+    {
+      "key": "templates/docs/product/engineering/dependencies-and-infrastructure.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/engineering/dependencies-and-infrastructure.md",
+        "pt-BR": "docs/pt-BR/templates/engineering/dependencies-and-infrastructure.md"
+      },
+      "source": "templates/docs/product/engineering/dependencies-and-infrastructure.md",
+      "source_sha256": "975FD4FCE5ABA1F3880AC732AC24BF8991F247F69B315B1288CD19BEAC13D08D"
+    },
+    {
+      "key": "templates/docs/product/engineering/diagrams.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/engineering/diagrams.md",
+        "pt-BR": "docs/pt-BR/templates/engineering/diagrams.md"
+      },
+      "source": "templates/docs/product/engineering/diagrams.md",
+      "source_sha256": "ACBFA0B156BFB654A80009E381932812B01B9208F0E8BDBCA5C15D9AD0BC061D"
+    },
+    {
+      "key": "templates/docs/product/engineering/existing-project-assessment.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/engineering/existing-project-assessment.md",
+        "pt-BR": "docs/pt-BR/templates/engineering/existing-project-assessment.md"
+      },
+      "source": "templates/docs/product/engineering/existing-project-assessment.md",
+      "source_sha256": "562F0EFC972FBC3C3F463B0093AA361DFE907D3AD3748723DE1FEA61AC645726"
+    },
+    {
+      "key": "templates/docs/product/engineering/security-and-privacy.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/engineering/security-and-privacy.md",
+        "pt-BR": "docs/pt-BR/templates/engineering/security-and-privacy.md"
+      },
+      "source": "templates/docs/product/engineering/security-and-privacy.md",
+      "source_sha256": "21F219C55CB4EB11E0AD4108C731F2E69AA69ED67169348E92B1882EB1CC3314"
+    },
+    {
+      "key": "templates/docs/product/engineering/structure-and-development.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/engineering/structure-and-development.md",
+        "pt-BR": "docs/pt-BR/templates/engineering/structure-and-development.md"
+      },
+      "source": "templates/docs/product/engineering/structure-and-development.md",
+      "source_sha256": "8C9BB39BFBD15B59D964B8972E3467687FB1CBF2B6D597D93F0F89543DFB82B0"
+    },
+    {
+      "key": "templates/docs/product/engineering/technologies.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/engineering/technologies.md",
+        "pt-BR": "docs/pt-BR/templates/engineering/technologies.md"
+      },
+      "source": "templates/docs/product/engineering/technologies.md",
+      "source_sha256": "35D59075CC8C6D92613D2476A4A3676C0B8F011E056B68D2068B9E2E00ADA4A0"
+    },
+    {
+      "key": "templates/docs/product/evolution/decisions-and-changes.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/evolution/decisions-and-changes.md",
+        "pt-BR": "docs/pt-BR/templates/evolution/decisions-and-changes.md"
+      },
+      "source": "templates/docs/product/evolution/decisions-and-changes.md",
+      "source_sha256": "FC7D1A73452A9FDA9D2767AA247DA6C745E9640BE9696CD431F2FD6D4CB44E6E"
+    },
+    {
+      "key": "templates/docs/product/experience/design-and-accessibility-review.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/experience/design-and-accessibility-review.md",
+        "pt-BR": "docs/pt-BR/templates/experience/design-and-accessibility-review.md"
+      },
+      "source": "templates/docs/product/experience/design-and-accessibility-review.md",
+      "source_sha256": "953F9516E4ABA417CCE5E18F56F96025CBE64CDFCD026D73693EEA78BE523818"
+    },
+    {
+      "key": "templates/docs/product/experience/flows-and-prototype.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/experience/flows-and-prototype.md",
+        "pt-BR": "docs/pt-BR/templates/experience/flows-and-prototype.md"
+      },
+      "source": "templates/docs/product/experience/flows-and-prototype.md",
+      "source_sha256": "DA69F6CC0B1B0D6302B4C8A4436ABCA6F02A2E1F453F6E1D25332A832491759D"
+    },
+    {
+      "key": "templates/docs/product/operations/launch-and-operations.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/operations/launch-and-operations.md",
+        "pt-BR": "docs/pt-BR/templates/operations/launch-and-operations.md"
+      },
+      "source": "templates/docs/product/operations/launch-and-operations.md",
+      "source_sha256": "9152F76E0D45D4755F2B90B38D6A9925A96051072DF19B063B2F3BFC8304A375"
+    },
+    {
+      "key": "templates/docs/product/quality/verification.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/quality/verification.md",
+        "pt-BR": "docs/pt-BR/templates/quality/verification.md"
+      },
+      "source": "templates/docs/product/quality/verification.md",
+      "source_sha256": "5D77EA658E110B1D6DDE9E520FA6EBA12FE91AB028B062ACDCF56598C1694BA1"
+    },
+    {
+      "key": "templates/docs/product/research/desk-research.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/research/desk-research.md",
+        "pt-BR": "docs/pt-BR/templates/research/desk-research.md"
+      },
+      "source": "templates/docs/product/research/desk-research.md",
+      "source_sha256": "B417DD7BCBC2A7F222B132ABCBFA72B060E5C4B713889CD4EBC8E87E1348CFA1"
+    },
+    {
+      "key": "templates/docs/product/reviews/critical-review.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/reviews/critical-review.md",
+        "pt-BR": "docs/pt-BR/templates/reviews/critical-review.md"
+      },
+      "source": "templates/docs/product/reviews/critical-review.md",
+      "source_sha256": "88A8DA88AA3B571424E0B26C84C013C2DE6C5716B6B0536F8CA7D4B3F9C8B3F7"
+    },
+    {
+      "key": "templates/docs/product/reviews/evidence-review.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/reviews/evidence-review.md",
+        "pt-BR": "docs/pt-BR/templates/reviews/evidence-review.md"
+      },
+      "source": "templates/docs/product/reviews/evidence-review.md",
+      "source_sha256": "46BD8D2E4C13FD6C7C682251ED387A4F7EB81769E131FAC5FD55CEA1F366A268"
+    },
+    {
+      "key": "templates/docs/product/work/consistency.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/work/consistency.md",
+        "pt-BR": "docs/pt-BR/templates/work/consistency.md"
+      },
+      "source": "templates/docs/product/work/consistency.md",
+      "source_sha256": "A30C637285D583F094B90021A1C8E54FA4CBEE0E519E25A2D077EC32EF7F0325"
+    },
+    {
+      "key": "templates/docs/product/work/convergence.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/work/convergence.md",
+        "pt-BR": "docs/pt-BR/templates/work/convergence.md"
+      },
+      "source": "templates/docs/product/work/convergence.md",
+      "source_sha256": "1DA7D6C6DB5CEF9A558061AF30D681D73EB6B2E0F5525718D5A46FA706DF060F"
+    },
+    {
+      "key": "templates/docs/product/work/decision.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/work/decision.md",
+        "pt-BR": "docs/pt-BR/templates/work/decision.md"
+      },
+      "source": "templates/docs/product/work/decision.md",
+      "source_sha256": "029F79A04E6D81011313F25F569A7128350809E79D7AAE9C7195A4146A83B247"
+    },
+    {
+      "key": "templates/docs/product/work/plan.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/work/plan.md",
+        "pt-BR": "docs/pt-BR/templates/work/plan.md"
+      },
+      "source": "templates/docs/product/work/plan.md",
+      "source_sha256": "CB1702720438162C7022274DA17C4A2A787F5C70E245D1DC06485FAE16154460"
+    },
+    {
+      "key": "templates/docs/product/work/research.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/work/research.md",
+        "pt-BR": "docs/pt-BR/templates/work/research.md"
+      },
+      "source": "templates/docs/product/work/research.md",
+      "source_sha256": "A3068189A87C990D7F37DA6B6A27A825032F68AA3B93DFCA10ACD103E6BD964A"
+    },
+    {
+      "key": "templates/docs/product/work/spec.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/work/spec.md",
+        "pt-BR": "docs/pt-BR/templates/work/spec.md"
+      },
+      "source": "templates/docs/product/work/spec.md",
+      "source_sha256": "178631C221A01EB01BA8A7EF6DB30DDA01BDA44262D888FF6F1B2880EEF92A8E"
+    },
+    {
+      "key": "templates/docs/product/work/tasks.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/work/tasks.md",
+        "pt-BR": "docs/pt-BR/templates/work/tasks.md"
+      },
+      "source": "templates/docs/product/work/tasks.md",
+      "source_sha256": "2C5750FCDB29EB2CD45C45EDBDD692EB8B0437D1751C937CFB9B44E5A89CAD9F"
+    },
+    {
+      "key": "templates/docs/product/work/verification.md",
+      "kind": "reference",
+      "pages": {
+        "en": "docs/en/templates/work/verification.md",
+        "pt-BR": "docs/pt-BR/templates/work/verification.md"
+      },
+      "source": "templates/docs/product/work/verification.md",
+      "source_sha256": "C9FBBD152E33689AE1C97CB0BC5FDA6B7ACB4985EB67CC4D4E2156A18A56921D"
+    }
+  ],
+  "skills": [
+    {
+      "id": "assess-feasibility",
+      "source": "templates/.agents/skills/assess-feasibility/SKILL.md",
+      "language": "en",
+      "source_sha256": "A4410EDFE0CDC8830F9755AA02ED46C714585D1C1ADAFA16F925225101678CA0"
+    },
+    {
+      "id": "challenge-assumptions",
+      "source": "templates/.agents/skills/challenge-assumptions/SKILL.md",
+      "language": "en",
+      "source_sha256": "0AA482D8259B366866FB98DCF2A97F599DA0C25DA99A8DD087536D779AE8E04F"
+    },
+    {
+      "id": "define-brand-design",
+      "source": "templates/.agents/skills/define-brand-design/SKILL.md",
+      "language": "en",
+      "source_sha256": "6978438BE3C8C8254F80D3E98A82784E9F41966F378D7A2C59B866C1894F4D1E"
+    },
+    {
+      "id": "deliver-slice",
+      "source": "templates/.agents/skills/deliver-slice/SKILL.md",
+      "language": "en",
+      "source_sha256": "430796C7BB4EF0DF1FA4E4957E2D795EB21A6C39FEF1A798F84A6549C648B668"
+    },
+    {
+      "id": "design-experience",
+      "source": "templates/.agents/skills/design-experience/SKILL.md",
+      "language": "en",
+      "source_sha256": "DD877B76CE89E537BBE465DC96DA7EF32915E1AAFB12C381F427E6422806215C"
+    },
+    {
+      "id": "evolve-product",
+      "source": "templates/.agents/skills/evolve-product/SKILL.md",
+      "language": "en",
+      "source_sha256": "794D1712BBA401A3F83C3D15277C0BA829EC6649AD61F59BA3DC0978ED8814E5"
+    },
+    {
+      "id": "guide-product",
+      "source": "templates/.agents/skills/guide-product/SKILL.md",
+      "language": "en",
+      "source_sha256": "FB13821E04FE9B120568506152B923F7C850B4BA9FC02D291FD6085DE2620E75"
+    },
+    {
+      "id": "maintain-knowledge",
+      "source": "templates/.agents/skills/maintain-knowledge/SKILL.md",
+      "language": "en",
+      "source_sha256": "9D43D7F59681319DB4A0584AB8FADA239BED5C5D12D8BF4F0D7AE93A30A45BCD"
+    },
+    {
+      "id": "plan-engineering",
+      "source": "templates/.agents/skills/plan-engineering/SKILL.md",
+      "language": "en",
+      "source_sha256": "FDEB38CAA48D5A10B35233CBF8BAE9980FA7715A16001ADA65B846AD225C0150"
+    },
+    {
+      "id": "research-product",
+      "source": "templates/.agents/skills/research-product/SKILL.md",
+      "language": "en",
+      "source_sha256": "D70C3DA1EE32F06497FDA865C92F57C15E597A4B2B00287AC47E7D18ABDF5CBD"
+    },
+    {
+      "id": "review-security",
+      "source": "templates/.agents/skills/review-security/SKILL.md",
+      "language": "en",
+      "source_sha256": "813D1CE2F07D12670B7AF54F9743295539740AFD7AB467F04D66870BF693E933"
+    }
+  ]
+}

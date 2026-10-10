@@ -1,0 +1,9 @@
+# Dados de uso/teste não pertencem à distribuição genérica.
+projects/
+instances/
+test-results/
+*.tmp
+*.log
+.env
+.env.*
+!.env.example
