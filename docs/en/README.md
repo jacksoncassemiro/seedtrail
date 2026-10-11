@@ -82,5 +82,3 @@ Choose a topic below. Guides, procedure catalogs and model references stay in th
 - [templates/work/spec](templates/work/spec.md)
 - [templates/work/tasks](templates/work/tasks.md)
 - [templates/work/verification](templates/work/verification.md)
-
-- [Plugin distribution and website](PLUGIN.md)

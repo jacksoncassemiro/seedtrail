@@ -55,4 +55,4 @@ Helpers tested on Windows/PowerShell 7.6.5; Linux/macOS and another-person hando
 
 [Use and reuse scenarios](docs/en/USE_CASES.md) cover the complete journey, independent procedures, pauses, changed sources, legacy projects and another delivery of the same feature.
 
-Use the [local kit or plugin distribution](docs/en/PLUGIN.md); both share the same procedures. The [website](https://jacksoncassemiro.me/seedtrail/) includes support and policies. The first public plugin release is still pending directory review.
+Read the [project website](https://jacksoncassemiro.me/seedtrail/) for an overview of the method and links to the local kit documentation.

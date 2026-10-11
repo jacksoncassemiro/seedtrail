@@ -6,9 +6,9 @@ English · [Português (Brasil)](../pt-BR/CHANGELOG.md)
 
 # Seedtrail updates
 
-## Unreleased — plugin distribution
+## Unreleased — project website
 
-Added a generated skills-only package, host adaptation, shared Seedtrail icon, and GitHub Pages source for the local kit and plugin. The kit remains independent. Public directory review is pending; no payments or telemetry added.
+Added the Seedtrail icon and a GitHub Pages website presenting the method and linking to the repository and local kit documentation.
 
 ## 0.1.0 — October 6, 2026
 

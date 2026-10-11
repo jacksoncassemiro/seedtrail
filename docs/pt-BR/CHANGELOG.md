@@ -6,9 +6,9 @@
 
 # Atualizações do Seedtrail
 
-## Não lançado — distribuição como plugin
+## Não lançado — site do projeto
 
-Adicionados pacote gerado de skills, adaptação ao host, ícone compartilhado e fonte GitHub Pages para o kit local e o plugin. O kit permanece independente. Revisão do diretório público pendente; sem pagamentos ou telemetria adicionados.
+Adicionados o ícone do Seedtrail e um site no GitHub Pages para apresentar o método e acessar o repositório e a documentação do kit local.
 
 ## 0.1.0 — 06/10/2026
 
