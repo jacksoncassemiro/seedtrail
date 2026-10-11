@@ -1,5 +1,7 @@
 # Seedtrail
 
+<img src="assets/seedtrail-icon.png" width="72" height="72" alt="Seedtrail: sprout and trail">
+
 **English** | [Português (Brasil)](README.pt-BR.md)
 
 **From idea to delivery, with context preserved.** Initial version 0.1.0. A local method to investigate, define, build and evolve a solution with evidence, decisions and documentation accessible to people and assistants. No Spec Kit dependency or mandatory external services.
@@ -52,3 +54,5 @@ Helpers tested on Windows/PowerShell 7.6.5; Linux/macOS and another-person hando
 ```
 
 [Use and reuse scenarios](docs/en/USE_CASES.md) cover the complete journey, independent procedures, pauses, changed sources, legacy projects and another delivery of the same feature.
+
+Use the [local kit or plugin distribution](docs/en/PLUGIN.md); both share the same procedures. The [website](https://jacksoncassemiro.github.io/seedtrail/) includes support and policies. The first public plugin release is still pending directory review.

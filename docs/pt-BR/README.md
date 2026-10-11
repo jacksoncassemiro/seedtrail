@@ -82,3 +82,5 @@ Escolha um assunto abaixo. Guias, catálogos de procedimentos e referências dos
 - [templates/work/spec](templates/work/spec.md)
 - [templates/work/tasks](templates/work/tasks.md)
 - [templates/work/verification](templates/work/verification.md)
+
+- [Distribuição como plugin e site](PLUGIN.md)

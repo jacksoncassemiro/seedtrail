@@ -6,6 +6,10 @@
 
 # Atualizações do Seedtrail
 
+## Não lançado — distribuição como plugin
+
+Adicionados pacote gerado de skills, adaptação ao host, ícone compartilhado e fonte GitHub Pages para o kit local e o plugin. O kit permanece independente. Revisão do diretório público pendente; sem pagamentos ou telemetria adicionados.
+
 ## 0.1.0 — 06/10/2026
 
 Primeira versão consolidada: fluxo independente de descoberta a evolução, onze skills próprias, coleta progressiva e confronto de premissas/evidências. Inclui biblioteca e geração sob demanda, fundamentos compartilhados e trabalhos por ID, estado/evidências, modo guiado ou contínuo assistido, pausa/retomada, TDD contextual, consistência e convergência.

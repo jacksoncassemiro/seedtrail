@@ -6,6 +6,10 @@ English · [Português (Brasil)](../pt-BR/CHANGELOG.md)
 
 # Seedtrail updates
 
+## Unreleased — plugin distribution
+
+Added a generated skills-only package, host adaptation, shared Seedtrail icon, and GitHub Pages source for the local kit and plugin. The kit remains independent. Public directory review is pending; no payments or telemetry added.
+
 ## 0.1.0 — October 6, 2026
 
 First consolidated version: independent discovery-to-evolution workflow, eleven original skills, progressive information gathering and challenge of assumptions/evidence. Includes a library and on-demand generation, shared foundations and work by ID, state/evidence, guided or assisted continuous mode, pause/resume, contextual TDD, consistency and convergence.

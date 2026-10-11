@@ -1,5 +1,7 @@
 # Seedtrail
 
+<img src="assets/seedtrail-icon.png" width="72" height="72" alt="Seedtrail: sprout and trail">
+
 [English](README.md) | **Português (Brasil)**
 
 **Da ideia à entrega, com contexto preservado.** Versão inicial 0.1.0. Um método local para investigar, definir, construir e evoluir uma solução com evidências, decisões e documentação consultáveis por pessoas e assistentes. Não depende do Spec Kit nem de serviços externos obrigatórios.
@@ -52,3 +54,5 @@ Helpers testados no Windows/PowerShell 7.6.5; Linux/macOS e retomada por outra p
 ```
 
 [Cenários de uso e reuso](docs/pt-BR/USE_CASES.md) mostram o percurso completo, cada procedimento isolado e situações de pausa, mudança de fonte, legado e nova entrega do mesmo recurso.
+
+Use o [kit local ou a distribuição como plugin](docs/pt-BR/PLUGIN.md); ambos compartilham os mesmos procedimentos. O [site](https://jacksoncassemiro.github.io/seedtrail/) inclui suporte e políticas. A primeira versão pública do plugin ainda aguarda revisão do diretório.

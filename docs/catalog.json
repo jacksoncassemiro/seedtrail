@@ -650,6 +650,14 @@
       },
       "source": "templates/docs/product/work/verification.md",
       "source_sha256": "C9FBBD152E33689AE1C97CB0BC5FDA6B7ACB4985EB67CC4D4E2156A18A56921D"
+    },
+    {
+      "key": "plugin-distribution",
+      "kind": "guide",
+      "pages": {
+        "en": "docs/en/PLUGIN.md",
+        "pt-BR": "docs/pt-BR/PLUGIN.md"
+      }
     }
   ],
   "skills": [
