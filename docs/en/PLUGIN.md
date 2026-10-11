@@ -22,7 +22,7 @@ The output contains a self-contained seedtrail folder and versioned ZIP. It incl
 
 ## Public website and plugin review
 
-Website source lives in website/. GitHub Pages publishes that directory through the dedicated workflow when its source or the workflow changes on main. [The website](https://jacksoncassemiro.github.io/seedtrail/) documents both modes, support, privacy and terms.
+Website source lives in website/. GitHub Pages publishes that directory through the dedicated workflow when its source or the workflow changes on main. [The website](https://jacksoncassemiro.me/seedtrail/) documents both modes, support, privacy and terms.
 
 The plugin is free, with no payments, donations, accounts or telemetry of its own. Jackson Cassemiro is the intended publisher; support: jacksoncassemiro@outlook.com.br. Country targeting has no restrictions. Host and connected-service policies still apply to conversations, files and tools.
 

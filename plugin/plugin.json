@@ -30,10 +30,10 @@
         "logo": "./assets/icon.png",
         "composerIcon": "./assets/icon.png",
         "developerName": "Jackson Cassemiro",
-        "websiteURL": "https://jacksoncassemiro.github.io/seedtrail/",
-        "supportURL": "https://jacksoncassemiro.github.io/seedtrail/support.html",
-        "privacyPolicyURL": "https://jacksoncassemiro.github.io/seedtrail/privacy.html",
-        "termsOfServiceURL": "https://jacksoncassemiro.github.io/seedtrail/terms.html"
+        "websiteURL": "https://jacksoncassemiro.me/seedtrail/",
+        "supportURL": "https://jacksoncassemiro.me/seedtrail/support.html",
+        "privacyPolicyURL": "https://jacksoncassemiro.me/seedtrail/privacy.html",
+        "termsOfServiceURL": "https://jacksoncassemiro.me/seedtrail/terms.html"
       },
       "publication": {
         "countries": [],
@@ -51,6 +51,6 @@
     "name": "Jackson Cassemiro",
     "email": "jacksoncassemiro@outlook.com.br"
   },
-  "homepage": "https://jacksoncassemiro.github.io/seedtrail/",
+  "homepage": "https://jacksoncassemiro.me/seedtrail/",
   "repository": "https://github.com/jacksoncassemiro/seedtrail"
 }

@@ -22,7 +22,7 @@ O resultado contém a pasta seedtrail autossuficiente e um ZIP versionado. Inclu
 
 ## Site público e revisão do plugin
 
-A fonte do site fica em website/. GitHub Pages publica essa pasta pelo workflow dedicado quando sua fonte ou o workflow muda em main. [O site](https://jacksoncassemiro.github.io/seedtrail/) documenta as duas formas, suporte, privacidade e termos.
+A fonte do site fica em website/. GitHub Pages publica essa pasta pelo workflow dedicado quando sua fonte ou o workflow muda em main. [O site](https://jacksoncassemiro.me/seedtrail/) documenta as duas formas, suporte, privacidade e termos.
 
 O plugin é gratuito, sem pagamentos, doações, contas ou telemetria próprios. Jackson Cassemiro é o responsável pretendido; suporte: jacksoncassemiro@outlook.com.br. A seleção de países não tem restrições. As políticas do host e dos serviços conectados continuam aplicáveis a conversas, arquivos e ferramentas.
 

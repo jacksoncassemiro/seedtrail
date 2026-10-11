@@ -55,4 +55,4 @@ Helpers testados no Windows/PowerShell 7.6.5; Linux/macOS e retomada por outra p
 
 [Cenários de uso e reuso](docs/pt-BR/USE_CASES.md) mostram o percurso completo, cada procedimento isolado e situações de pausa, mudança de fonte, legado e nova entrega do mesmo recurso.
 
-Use o [kit local ou a distribuição como plugin](docs/pt-BR/PLUGIN.md); ambos compartilham os mesmos procedimentos. O [site](https://jacksoncassemiro.github.io/seedtrail/) inclui suporte e políticas. A primeira versão pública do plugin ainda aguarda revisão do diretório.
+Use o [kit local ou a distribuição como plugin](docs/pt-BR/PLUGIN.md); ambos compartilham os mesmos procedimentos. O [site](https://jacksoncassemiro.me/seedtrail/) inclui suporte e políticas. A primeira versão pública do plugin ainda aguarda revisão do diretório.
